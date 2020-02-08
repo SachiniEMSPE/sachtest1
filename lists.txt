@@ -5,11 +5,13 @@ name
 age
 address
 
+house 
+favourite sport 
+
 end master list.
 
 start teachers list here. 
 subjects
 grade
 
-
-
+end
