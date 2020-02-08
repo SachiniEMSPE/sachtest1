@@ -5,4 +5,11 @@ name
 age
 address
 
-end
+end master list.
+
+start teachers list here. 
+subjects
+grade
+
+
+
