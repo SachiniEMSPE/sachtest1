@@ -5,4 +5,8 @@ name
 age
 address
 
+house 
+favourite sport 
+
+
 end
